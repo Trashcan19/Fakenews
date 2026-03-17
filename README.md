@@ -62,7 +62,8 @@ The AI analyzes the news content.
 The system returns whether the news is Fake or Real.
 The result is displayed on the website.
 
-But due to the exams in our college we have failed to create the backend of the project but will create that as soon as possible
+But due to the exams in our college we have failed to create the backend until now of the project but will create that as soon as possible
+
 Screenshot of the website created
 <img width="1610" height="858" alt="image" src="https://github.com/user-attachments/assets/c6389c41-e7b5-4d2d-853d-be07ad5a0fdd" />
 
