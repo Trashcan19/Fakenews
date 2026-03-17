@@ -23,23 +23,23 @@ Simple and fast analysis
 
 Technologies Used
 
-Frontend:
+#Frontend:
 
-HTML
+->HTML
 
-CSS
+->CSS
 
-JavaScript
+->JavaScript
 
-Backend:
+#Backend(to be made):
 
-Python
+->Python
 
-Flask
+->Flask
 
-AI / API:
+#AI / API:
 
-OpenAI API (or any fake news detection model API)
+Gemini API (or any fake news detection model API)
 
 Project Structure
 fake-news-detector
