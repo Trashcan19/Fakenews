@@ -243,8 +243,8 @@ backend/.env
 
 | Name | Role |
 |---|---|
-| Member 1 | Backend & API Integration, AI & Dataset Reasearch |
-| Member 2 | Frontend Development, ppt design |
+| ABHIRUP KARMAKAR | Backend & API Integration, AI & Dataset Reasearch |
+| SHRUTI DANDAPAT | Frontend Development, ppt design |
 
 ---
 
