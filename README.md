@@ -260,6 +260,6 @@ This project is built for hackathon purposes. The ISOT Dataset is subject to its
 ---
 
 <div align="center">
-  <strong>TruthLens v1.0</strong> · Built with ❤️ at Hackathon 2025<br/>
+  <strong>TruthLens v1.0</strong> · Built with ❤️ at Axiora Hackathon 2026<br/>
   <em>AI Fact Verification Platform · Groq + ISOT Dataset · Node.js + Express</em>
 </div>
