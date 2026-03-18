@@ -1,0 +1,9 @@
+To run the model:
+1)copy the server.js, index.html, package.json into one folder and download the fake.csv and true.csv from google drive and upload in the same folder.
+2)copy the api key from gdrive and past it in the server.js file.
+3)open terminal
+4)type cd<spacce>"Address path of the folder where you ahve copied and saved all the files"
+5)type npm install
+6)wait a sec and then type node server.js
+7)open index.html
+8)you are ready with the project.
