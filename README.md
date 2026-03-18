@@ -17,6 +17,12 @@ TruthLens is a real-time AI-powered fake news detection platform that analyzes n
 | Dashboard | Result — FAKE | Result — REAL |
 |---|---|---|
 | Idle state with animated orbit | Red verdict with red flags | Green verdict with confidence ring |
+<img width="767" height="353" alt="image" src="https://github.com/user-attachments/assets/5699282a-f591-45f5-a9f5-1d656061cf94" />
+<img width="768" height="623" alt="Screenshot 2026-03-18 212723" src="https://github.com/user-attachments/assets/c0f69354-41fe-4296-8ce5-1f10cc8c8c96" />
+<img width="766" height="418" alt="Screenshot 2026-03-18 212751" src="https://github.com/user-attachments/assets/191eb369-9ba9-47b2-ac35-0d31e4359e56" />
+
+
+
 
 ---
 
