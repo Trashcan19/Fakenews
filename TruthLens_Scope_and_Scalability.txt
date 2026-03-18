@@ -1,0 +1,65 @@
+TRUTHLENS — SCOPE & SCALABILITY
+════════════════════════════════════════════════════════
+
+PROJECT SCOPE
+──────────────
+TruthLens is an AI-powered fake news detection platform that analyzes
+news articles, URLs, and headlines to deliver instant verdicts —
+REAL, FAKE, or UNCERTAIN — using Groq AI and the ISOT Dataset.
+
+CURRENT FEATURES:
+▸ Accepts full article text, URL, or headline as input
+▸ AI verdict with confidence score (0–100%)
+▸ Detailed reasoning and red flags detection
+▸ Silent dataset cross-check (44,000+ labeled articles)
+▸ Share result, Re-analyze, Flag as Wrong buttons
+▸ Educational popups — What is a FACT & Safety First
+▸ Session history, statistics, and accuracy meter
+▸ No login required — works instantly in any browser
+
+TARGET USERS:
+▸ General public, students, journalists, educators, organizations
+
+CURRENT LIMITATION:
+▸ English only, no image/video analysis, runs locally only
+
+
+SCALABILITY PLAN
+─────────────────
+SHORT TERM (1–3 months):
+▸ Deploy on a public URL using Railway or Render (free hosting)
+▸ Add user login with Google authentication
+▸ Store history and flagged verdicts in MongoDB database
+▸ Improve URL scraping for JavaScript-heavy websites using Puppeteer
+
+MEDIUM TERM (3–6 months):
+▸ Chrome and Firefox browser extension for one-click verification
+▸ WhatsApp bot — forward a message and get instant verdict back
+▸ Regional language support — Tamil, Hindi, Telugu
+▸ Image verification to detect AI-generated or manipulated images
+▸ Source credibility scoring based on domain reputation
+
+LONG TERM (6–12 months):
+▸ Mobile app for Android and iOS
+▸ Public REST API for news platforms and organizations to integrate
+▸ Real-time trending news scanner — auto-flags viral fake stories
+▸ Video deepfake detection using Microsoft Video Authenticator
+▸ Institutional partnerships with schools, newsrooms, and government
+
+PERFORMANCE TARGETS:
+▸ Current response time  : 1.5 – 3.5 seconds
+▸ Target response time   : Under 1 second (with Redis caching)
+▸ Target concurrent users: 1,000+ (with Docker + load balancing)
+
+BUSINESS MODEL:
+▸ Free tier — 20 checks/day
+▸ Pro plan — Unlimited checks at ₹199/month
+▸ API access — charged per 1000 requests for enterprises
+
+SOCIAL IMPACT:
+▸ Fights misinformation in India (600M+ internet users)
+▸ Promotes media literacy among students and youth
+▸ Aligns with UN SDG 4 (Education) and SDG 16 (Justice)
+
+"Because truth matters more than ever."
+════════════════════════════════════════════════════════
