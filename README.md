@@ -237,10 +237,8 @@ backend/.env
 
 | Name | Role |
 |---|---|
-| Member 1 | Frontend Development |
-| Member 2 | Backend & API Integration |
-| Member 3 | AI & Dataset Research |
-| Member 4 | UI/UX Design |
+| Member 1 | Backend & API Integration, AI & Dataset Reasearch |
+| Member 2 | Frontend Development, ppt design |
 
 ---
 
